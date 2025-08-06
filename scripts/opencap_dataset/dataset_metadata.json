@@ -1,0 +1,56 @@
+{
+  "creation_info": {
+    "timestamp": "2025-08-04T17:05:42.803225",
+    "processor": "OpenCapDataProcessor",
+    "version": "1.0.0"
+  },
+  "dataset_summary": {
+    "total_sessions": 2,
+    "total_motions": 12,
+    "total_frames": 2949,
+    "total_duration_seconds": 48.950000100000004,
+    "unique_subjects": 2,
+    "subject_ids": [
+      "afalisse",
+      "SU"
+    ]
+  },
+  "motion_type_distribution": {
+    "vertical_jump": 2,
+    "jump": 1,
+    "balance": 1,
+    "running": 2,
+    "cutting": 1,
+    "drop_landing": 2,
+    "squatting": 2,
+    "alignment": 1
+  },
+  "sessions_detail": [
+    {
+      "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+      "subject_id": "SU",
+      "num_motions": 7,
+      "motion_names": [
+        "alignment",
+        "1legsquat",
+        "2legjumpdroplanding",
+        "YBALANCE",
+        "1legverticaljump",
+        "1legjumpdroplanding",
+        "2legverticaljump"
+      ]
+    },
+    {
+      "session_id": "OpenCapData_7272a71a-e70a-4794-a253-39e11cb7542c",
+      "subject_id": "afalisse",
+      "num_motions": 5,
+      "motion_names": [
+        "run",
+        "squats",
+        "jump",
+        "run2",
+        "cut"
+      ]
+    }
+  ]
+}

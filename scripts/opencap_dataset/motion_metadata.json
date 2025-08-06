@@ -1,0 +1,98 @@
+[
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "alignment",
+    "motion_type": "alignment",
+    "num_frames": 241,
+    "duration": 4.0
+  },
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "1legsquat",
+    "motion_type": "squatting",
+    "num_frames": 410,
+    "duration": 6.8166667
+  },
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "2legjumpdroplanding",
+    "motion_type": "drop_landing",
+    "num_frames": 289,
+    "duration": 4.8
+  },
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "YBALANCE",
+    "motion_type": "balance",
+    "num_frames": 471,
+    "duration": 7.8333333
+  },
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "1legverticaljump",
+    "motion_type": "vertical_jump",
+    "num_frames": 233,
+    "duration": 3.8666667
+  },
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "1legjumpdroplanding",
+    "motion_type": "drop_landing",
+    "num_frames": 341,
+    "duration": 5.6666667
+  },
+  {
+    "session_id": "OpenCapData_abe79267-646f-436b-a19e-a9e1d8f32807",
+    "subject_id": "SU",
+    "motion_name": "2legverticaljump",
+    "motion_type": "vertical_jump",
+    "num_frames": 291,
+    "duration": 4.8333333
+  },
+  {
+    "session_id": "OpenCapData_7272a71a-e70a-4794-a253-39e11cb7542c",
+    "subject_id": "afalisse",
+    "motion_name": "run",
+    "motion_type": "running",
+    "num_frames": 94,
+    "duration": 1.55
+  },
+  {
+    "session_id": "OpenCapData_7272a71a-e70a-4794-a253-39e11cb7542c",
+    "subject_id": "afalisse",
+    "motion_name": "squats",
+    "motion_type": "squatting",
+    "num_frames": 198,
+    "duration": 3.2833333
+  },
+  {
+    "session_id": "OpenCapData_7272a71a-e70a-4794-a253-39e11cb7542c",
+    "subject_id": "afalisse",
+    "motion_name": "jump",
+    "motion_type": "jump",
+    "num_frames": 173,
+    "duration": 2.8666667
+  },
+  {
+    "session_id": "OpenCapData_7272a71a-e70a-4794-a253-39e11cb7542c",
+    "subject_id": "afalisse",
+    "motion_name": "run2",
+    "motion_type": "running",
+    "num_frames": 95,
+    "duration": 1.5666667
+  },
+  {
+    "session_id": "OpenCapData_7272a71a-e70a-4794-a253-39e11cb7542c",
+    "subject_id": "afalisse",
+    "motion_name": "cut",
+    "motion_type": "cutting",
+    "num_frames": 113,
+    "duration": 1.8666667
+  }
+]

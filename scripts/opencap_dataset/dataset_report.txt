@@ -1,0 +1,21 @@
+OpenCap Unified Dataset Report
+==================================================
+
+Generated: 2025-08-04T17:05:43.502003
+
+Dataset Summary:
+  Total sessions: 2
+  Total motions: 12
+  Total frame graphs: 2949
+  Total duration: 49.0s
+  Unique subjects: 2
+
+Motion Type Distribution:
+  alignment: 1 motions (8.3%)
+  balance: 1 motions (8.3%)
+  cutting: 1 motions (8.3%)
+  drop_landing: 2 motions (16.7%)
+  jump: 1 motions (8.3%)
+  running: 2 motions (16.7%)
+  squatting: 2 motions (16.7%)
+  vertical_jump: 2 motions (16.7%)
