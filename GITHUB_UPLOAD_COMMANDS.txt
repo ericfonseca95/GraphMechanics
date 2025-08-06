@@ -1,0 +1,16 @@
+# GitHub Upload Commands
+
+# After creating your GitHub repository, run these commands:
+
+# 1. Add your GitHub repository as origin (replace with your actual repository URL)
+git remote add origin https://github.com/YOUR_USERNAME/GraphMechanics.git
+
+# 2. Push to GitHub
+git branch -M main
+git push -u origin main
+
+# That's it! Your entire GraphMechanics project will be uploaded to GitHub.
+
+# Optional: If you want to verify the upload
+git remote -v
+git log --oneline -5
